@@ -16,3 +16,15 @@ will turn to red and will begin to flash as a secondary warning.
 1. Momentary push-button
 1. Adafruit Neopixel strip (8 pixel bar used)
 
+## Overview
+
+Two primary modes exist: *Normal* and *Train*. The *Train* mode allows a setpoint to be set automatically when the button is released. To enter *Train* mode, hold down the button. Typical operation, in *Normal* mode does not require any user interaction.
+
+### Train
+
+### Normal Operation (Idle)
+
+### Object Within Range
+
+### Setpoint Reached
+
